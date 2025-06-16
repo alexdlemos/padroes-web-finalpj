@@ -1,17 +1,17 @@
 # Turismo Brasil
 
 ## Sobre o Projeto
-Turismo Brasil é um site moderno e responsivo desenvolvido para promover destinos turísticos brasileiros. O site oferece uma experiência interativa e atraente para os usuários, apresentando diversos destinos populares e pacotes turísticos.
+Site de turismo feito para que funcione de um jeito bonito e funcional (eu espero)
 
 ## Funcionalidades
-- Navegação suave entre seções
-- Exibição de destinos turísticos populares com descrições
-- Apresentação de pacotes turísticos
-- Formulário de contato interativo
-- Design responsivo para todos os dispositivos
-- Animações e interações modernas
+- Navegação suave
+- Exibe pontos turisticos com imagens
+- Apresenta pacotes turisticos com imagens
+- Formulário de contrato
+- Site responsivo para dispositivos móveis
+- Animações
 
-## Tecnologias Utilizadas
+## Linguagens Utilizadas
 - HTML
 - CSS
 - JavaScript
