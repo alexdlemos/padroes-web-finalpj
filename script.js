@@ -236,4 +236,4 @@ document.addEventListener('DOMContentLoaded', () => {
         }
         observer.observe(elemento);
     });
-}); 
+});
